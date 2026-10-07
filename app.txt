@@ -1,2 +1,5 @@
 This is the original file.
+HEAD
 remote developer added this line
+this is an edited file 
+d831aa3 (Local developer update)
